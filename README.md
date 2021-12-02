@@ -1,16 +1,22 @@
-### Hi there 👋
-___
-I'm a 17 year old student form germany.
+## Hi there 👋
+
+I'm a 17 year old student form Germany.
 
 
-### 📈 **GitHub Stats:**
+## &#x1f4c8; GitHub Stats:
 
-[![Lenny-del's GitHub stats](https://github-readme-stats.vercel.app/api?username=lenny-del&count_private=true&show_icons=true&show_icons=true&theme=dark&hide=prs)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lenny-del&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/lenny-del/lenny-del">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lenny-del&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a>
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lenny-del&repo=github-readme-stats)](https://github.com/lenny-del/github-readme-stats)
+<a href="https://github.com/lenny-del/lenny-del">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lenny-del&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+
+
+<a href="https://github.com/Lenny-del/TrunkControl">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=lenny-del&repo=TrunkControl&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+
