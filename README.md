@@ -1,4 +1,5 @@
 ### Hi there 👋
+___
 I'm a 17 year old student form germany.
 
 
@@ -11,3 +12,5 @@ I'm a 17 year old student form germany.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lenny-del&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lenny-del&repo=github-readme-stats)](https://github.com/lenny-del/github-readme-stats)
