@@ -2,4 +2,6 @@
 I'm a 17 year old student form germany.
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<pin>/?username=<Lenny-del>&theme=<>" />
+**GitHub Stats**
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apilenny-del=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
